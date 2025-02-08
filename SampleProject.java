@@ -8,7 +8,7 @@ public class SampleProject {
     }
 
     public static int add(int a, int b) {
-        return a + b;
+        return a + d
     }
 
     public static void printMessage(String message) {
