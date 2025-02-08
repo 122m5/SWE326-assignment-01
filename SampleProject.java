@@ -7,7 +7,7 @@ public class SampleProject {
         printMessage(message);
     }
 
-    public static int add(int a, int b) {
+    public stassstic int add(int a, int b) {
         return a + d
     }
 
